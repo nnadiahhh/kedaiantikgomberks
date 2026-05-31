@@ -1,0 +1,57 @@
+.header{
+    background-color: #f2f2f2;
+    padding: 20px;
+    text-align: center;
+    color:mediumblue;
+}
+
+.nav{
+    text-align: center;
+}
+
+.welcome{
+    text-align: center;
+    font-size: 23px;
+    color:dodgerblue
+}
+
+.gambar{
+    text-align: left;
+}
+
+.img{
+    width:280px;
+}
+
+.product{
+    text-align: left;
+    font-size: 18px;
+}
+
+.footer{
+    text-align: center;
+    font-size: 15px;
+    color:mediumblue
+}
+
+.info{
+    text-align: center;
+    color:dodgerblue;
+    font-size:23px;
+}
+
+.detail{
+    text-align: left;
+    font-size: 18px;
+}
+
+.form{
+    text-align: center;
+    font-size: 23px;
+    color:dodgerblue
+}
+
+.inputmes{
+    text-align: center;
+    font-size: 18px;
+}
